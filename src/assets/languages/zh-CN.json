@@ -83,7 +83,7 @@
     "export_flag": "导出题目 Flag"
   },
   "asteroid": {
-    "intro": "Asteroid 是使用 Unity3D 开发的一款 AWD 3D 实时大屏，后端已与 Cardinal 平台深度整合。",
+    "intro": "Asteroid",
     "docs": "使用文档",
     "github": "GitHub",
     "refresh_rank": "刷新队伍信息",
